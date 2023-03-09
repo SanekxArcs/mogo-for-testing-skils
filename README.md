@@ -1,2 +1,2 @@
-# Project for testing skils mogo-sa.netlify.app
+# Project for testing skils https://mogo-sa.netlify.app
  site
